@@ -1,5 +1,3 @@
-package com.java.string25;
-
 public class Java0001Question {
 
 	public static void main(String[] args) {
